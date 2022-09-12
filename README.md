@@ -1,6 +1,6 @@
 <h3>Software consultant and freelance UI/UX designer from Finland</h3>
 
-Currently employed as a full time software consultant at Vincit, I've been working as a freelance developer and UI designer for over 10 years now. I started with web design and development in 2006, when I published my first website. Some people have called me a "hybrid", being able to work as a developer as well as a designer, but my interests lie more in the development side.
+Currently employed as a full time software consultant at Vincit, I've been working as a freelance developer and UI designer for over 15 years now. I started with web design and development in 2006, when I published my first website. Some people have called me a "hybrid", being able to work as a developer as well as a designer, but I have slowly started to drift more to the development side.
 
 You can find my portfolio at <a href="https://ossi.dev" target="_blank">ossi.dev</a>. 
 
