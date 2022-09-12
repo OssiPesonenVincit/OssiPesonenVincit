@@ -1,8 +1,8 @@
-<h3>Software consultant and freelance UI/UX designer from Finland</h3>
+<h3>Software engineer / architect / consultant and freelance UI/UX designer from Finland</h3>
 
 Currently employed as a full time software consultant at Vincit, I've been working as a freelance developer and UI designer for over 15 years now. I started with web design and development in 2006, when I published my first website. Some people have called me a "hybrid", being able to work as a developer as well as a designer, but I have slowly started to drift more to the development side.
 
-You can find my portfolio at <a href="https://ossi.dev" target="_blank">ossi.dev</a>. 
+You can find my portfolio at <a href="https://ossi.dev" target="_blank">ossi.dev</a> which I do try to update once in a while. 
 
 I occasionally post random stuff on <a href="https://twitter.com/ossidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ossidev" height="30" width="40" /> Twitter</a>, write articles on <a href="https://medium.com/@rcls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rcls" height="30" width="40" />Medium</a> or release some of my unpublished design stuff on <a href="https://www.behance.net/ossipesonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ossipesonen" height="30" width="40" />Behance</a>.
 
