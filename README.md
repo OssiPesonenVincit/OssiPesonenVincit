@@ -4,9 +4,7 @@ Currently employed as a full time software consultant at Vincit, I've been worki
 
 You can find my portfolio at <a href="https://ossi.dev" target="_blank">ossi.dev</a>. 
 
-I occasionally post random stuff on <a href="https://twitter.com/ossidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ossidev" height="30" width="40" /> Twitter</a>, write articles on Medium or release some of my unpublished design stuff on Behance.
-
-I occasionally post random stuff on Twitter, write articles on <a href="https://medium.com/@rcls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rcls" height="30" width="40" />Medium</a> or release some of my unpublished design stuff on <a href="https://www.behance.net/ossipesonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ossipesonen" height="30" width="40" />Behance</a>.
+I occasionally post random stuff on <a href="https://twitter.com/ossidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ossidev" height="30" width="40" /> Twitter</a>, write articles on <a href="https://medium.com/@rcls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rcls" height="30" width="40" />Medium</a> or release some of my unpublished design stuff on <a href="https://www.behance.net/ossipesonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ossipesonen" height="30" width="40" />Behance</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
