@@ -1,14 +1,12 @@
-<h3 align="center">A software consultant from Finland</h3>
+<h3>Software consultant and freelance UI/UX designer from Finland</h3>
 
-- 🌱 I’m currently learning **.NET Core, Vue 3**
+Currently employed as a full time software consultant at Vincit, I've been working as a freelance developer and UI designer for over 10 years now. I started with web design and development in 2006, when I published my first website. Some people have called me a "hybrid", being able to work as a developer as well as a designer, but my interests lie more in the development side.
 
-- 👨‍💻 Some of my projects are available at [ossi.dev](ossi.dev)
+You can find my portfolio at <a href="https://ossi.dev" target="_blank">ossi.dev</a>. 
 
-- 📝 I regularly write articles on [rcls.medium.com](rcls.medium.com)
+I occasionally post random stuff on <a href="https://twitter.com/ossidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ossidev" height="30" width="40" /> Twitter</a>, write articles on Medium or release some of my unpublished design stuff on Behance.
 
-- 📫 How to reach me **ossi@ossipesonen.fi**
-
-- 📄 Know about my experiences [ossi.dev](ossi.dev)
+I occasionally post random stuff on Twitter, write articles on <a href="https://medium.com/@rcls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rcls" height="30" width="40" />Medium</a> or release some of my unpublished design stuff on <a href="https://www.behance.net/ossipesonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ossipesonen" height="30" width="40" />Behance</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
